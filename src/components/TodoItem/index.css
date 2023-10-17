@@ -1,0 +1,27 @@
+.delete-btn {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  height: 40px;
+  width: 50px;
+  color: black;
+  font-size: 20px;
+  font-family: "Roboto";
+}
+.update-btn {
+  background-color: blue;
+  outline: none;
+  cursor: pointer;
+  height: 40px;
+  width: 50px;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Roboto";
+}
+.todo-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 10px;
+}
